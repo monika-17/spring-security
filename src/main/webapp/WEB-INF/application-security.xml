@@ -25,10 +25,10 @@
            <user-service>
                <user name="monika" password="shekhawat" authorities="ROLE_USER"/>
            </user-service>
-
        </authentication-provider>
-
   </authentication-manager>
+
+    <beans:bean></beans:bean>
 
 
 
