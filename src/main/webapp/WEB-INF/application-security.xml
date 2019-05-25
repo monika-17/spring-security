@@ -27,9 +27,6 @@
            </user-service>
        </authentication-provider>
   </authentication-manager>
-
-    <beans:bean></beans:bean>
-
-
+    
 
 </beans:beans>
